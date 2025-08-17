@@ -2,7 +2,6 @@
 ___
 ![](https://img.shields.io/badge/-HTML-blue)
 ![](https://img.shields.io/badge/-CSS3-blue)
-![](https://img.shields.io/badge/-Bootstrap-blue)
 ![](https://img.shields.io/badge/-SQL-blue)
 ![](https://img.shields.io/badge/-Javascript-blue)
 ![](https://img.shields.io/badge/-Node.JS-blue)
