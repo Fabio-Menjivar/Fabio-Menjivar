@@ -7,8 +7,6 @@ ___
 ![](https://img.shields.io/badge/-Node.JS-blue)
 ![](https://img.shields.io/badge/-C%23-blue)
 ![](https://img.shields.io/badge/-Java-blue)
-![](https://img.shields.io/badge/-PHP-blue)
-
 
 ___
 I am Fabio Menjivar, a computer science student. I'm currently focused on web development studying Javascript, C# and Node. I also have knowledge in Databases and other areas. My main goal is to become a successful developer and work in a software company. I'm a responsible and commited person who wants to grow both personally and professionally.
