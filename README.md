@@ -5,6 +5,7 @@ ___
 ![](https://img.shields.io/badge/-SQL-blue)
 ![](https://img.shields.io/badge/-Javascript-blue)
 ![](https://img.shields.io/badge/-Node.JS-blue)
+![](https://img.shields.io/badge/-PHP-blue)
 ![](https://img.shields.io/badge/-C%23-blue)
 ![](https://img.shields.io/badge/-Java-blue)
 
