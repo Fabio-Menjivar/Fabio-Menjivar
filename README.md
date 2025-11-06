@@ -1,6 +1,6 @@
 ### Hi, I'm Fabio 👋
 ___
-![](https://img.shields.io/badge/-HTML-blue)
+![](https://img.shields.io/badge/-HTML5-blue)
 ![](https://img.shields.io/badge/-CSS3-blue)
 ![](https://img.shields.io/badge/-SQL-blue)
 ![](https://img.shields.io/badge/-Javascript-blue)
