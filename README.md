@@ -12,7 +12,7 @@ ___
 ___
 I am Fabio Menjívar, a computer science student. I'm currently focused on web development studying Javascript, BTC, C# and NodeJS. I also have knowledge in Databases and other areas. My main goal is to become a successful developer and work in a software company. I'm a responsible and commited person who wants to grow both personally and professionally.
 ___
-<a href="https://www.linkedin.com/in/fabiomjrr/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="KiritoXD01"/>
+<a href="https://www.linkedin.com/in/fabiomenjivar546821354879654238849547/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fabio-Menjivar"/>
  </a>
  <a href="https://github.com/Fabio-Menjivar" target="_blank"><img align="left" width="25px" src="https://simpleicons.vercel.app/github/aaa"/></a>
