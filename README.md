@@ -16,7 +16,7 @@ ___
 🏆 Winner of CUBO+ Hackathon – Built a project evaluated by top industry leaders. You can see the project here: https://github.com/Fabio-Menjivar/posBTC-NFC <br>
 🏆 Participant for the 2021 Youth Ambasssador's Program. https://sites.google.com/georgetown.edu/ricardomenjivar/home
 ___
-<a href="https://www.linkedin.com/in/fabiomenjivar546821354879654238849547/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/fabiomenjivar546821354879654238849547/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fabio-Menjivar"/>
- </a>
+ </a> -->
  <a href="https://github.com/Fabio-Menjivar" target="_blank"><img align="left" width="25px" src="https://simpleicons.vercel.app/github/aaa"/></a>
