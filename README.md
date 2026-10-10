@@ -18,9 +18,3 @@ I am Fabio Menjívar, a computer science student. I'm currently focused on web d
 * 🇨🇭 **Plan ₿ Summer School (Lugano, Switzerland)** – Completed intensive coursework in Blockchain, Distributed Ledger Technology (DLT), DeFi, Compliance & Regulations, Privacy, and Security Analysis.
 * 🇸🇮 **Erasmus+ International Mobility Traineeship (Maribor, Slovenia)** – Gained hands-on professional experience abroad working on Java software development within a multicultural engineering setting.
 
-___
-
-<a href="https://github.com/Fabio-Menjivar" target="_blank">
-  <img align="left" width="25px" src="https://simpleicons.vercel.app/github/aaa" alt="GitHub" />
-</a>
-<br>
