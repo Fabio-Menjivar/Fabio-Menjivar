@@ -11,11 +11,16 @@ ___
 
 ___
 I am Fabio Menjívar, a computer science student. I'm currently focused on web development studying C# and NodeJS. I also have knowledge in Databases and other areas. My main goal is to become a successful developer and work in a software company. I'm a responsible and commited person who wants to grow both personally and professionally.
+
+### ⭐ Achievements & International Experience
+
+* 🏆 **Winner of CUBO+ Hackathon** – Developed **[posBTC-NFC](https://github.com/Fabio-Menjivar/posBTC-NFC)**, a Bitcoin NFC point-of-sale solution evaluated by top industry leaders.
+* 🇨🇭 **Plan ₿ Summer School (Lugano, Switzerland)** – Completed intensive coursework in Blockchain, Distributed Ledger Technology (DLT), DeFi, Compliance & Regulations, Privacy, and Security Analysis.
+* 🇸🇮 **Erasmus+ International Mobility Traineeship (Maribor, Slovenia)** – Gained hands-on professional experience abroad working on Java software development within a multicultural engineering setting.
+
 ___
-⭐ Achievements <br><br>
-🏆 Winner of CUBO+ Hackathon – Built a project evaluated by top industry leaders. You can see the project here: https://github.com/Fabio-Menjivar/posBTC-NFC <br>
-___
-<!-- <a href="https://www.linkedin.com/in/fabiomenjivar546821354879654238849547/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fabio-Menjivar"/>
- </a> -->
- <a href="https://github.com/Fabio-Menjivar" target="_blank"><img align="left" width="25px" src="https://simpleicons.vercel.app/github/aaa"/></a>
+
+<a href="https://github.com/Fabio-Menjivar" target="_blank">
+  <img align="left" width="25px" src="https://simpleicons.vercel.app/github/aaa" alt="GitHub" />
+</a>
+<br>
