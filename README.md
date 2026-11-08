@@ -36,6 +36,5 @@ I am Fabio Menjívar, a computer science student. I'm currently focused on web d
 
 ### ⭐ Achievements & International Experience
 
-* 🏆 **Winner of CUBO+ Hackathon** – Developed **[posBTC-NFC](https://github.com/Fabio-Menjivar/posBTC-NFC)**, a Bitcoin NFC point-of-sale solution evaluated by top industry leaders.
 * 🇨🇭 **Plan ₿ Summer School (Lugano, Switzerland)** – Blockchain, DLT, DeFi, Compliance and Regulations, Analysis Privacy & Security.
 * 🇸🇮 **Erasmus+ International Mobility Traineeship (Maribor, Slovenia)**.
